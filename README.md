@@ -7,7 +7,7 @@ I am a Ph. D. candidate at Mcgill University right now. I started my Ph. D. peri
 
 - 2017.8 - 2018.12, Master, Columbia University, U.S.A
 
-- 2012.8 - 2018.6, Bachelor, Xidian University, China
+- 2013.8 - 2018.6, Bachelor, Xidian University, China
 
 ### Publish
 
