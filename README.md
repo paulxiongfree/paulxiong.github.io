@@ -11,7 +11,7 @@ I am a Ph. D. candidate at Mcgill University right now. I started my Ph. D. peri
 
 ### Publish
 
-[Practical deep reinforcement learning approach for stock trading](https://arxiv.org/abs/1811.07522), **Z Xiong**, XY Liu, S Zhong, HY Yang, A Walid, 2018
+_[Practical deep reinforcement learning approach for stock trading](https://arxiv.org/abs/1811.07522)_, **Z Xiong**, XY Liu, S Zhong, HY Yang, A Walid, 2018
 
 
 
