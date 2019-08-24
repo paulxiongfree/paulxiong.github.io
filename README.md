@@ -15,8 +15,3 @@ I am a Ph. D. candidate at Mcgill University right now. I started my Ph. D. peri
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
