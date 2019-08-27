@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Zhuoran Xiong]
 description: [A short description of your site's purpose]
-logo: [FACE_1.jpg]
-show_downloads: [true]
+show_downloads: [false]
